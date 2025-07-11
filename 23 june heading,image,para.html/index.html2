@@ -1,0 +1,116 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+
+    <style>
+
+        *{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        p{
+            margin: 20px;
+        }
+
+        h1{
+            text-align: center;
+            background-color: blue;
+            color: white;
+            padding: 30px;
+            border-radius: 20px;
+        }
+
+        .parent{
+            margin: 30px;
+            padding: 10px;
+            display: flex;
+
+        }
+
+        img{
+            border-radius: 40%;
+        }
+
+        .sec{
+            margin: 30px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>M S Dhoni</h1>
+
+    <div class="parent">
+
+        <div>
+
+            <h2>Personal Information</h2>
+            <p><b>Name :</b> Mahendra Singh Dhoni </p>
+            <p><b>Born :</b> July 07, 1981 (43 years)</p>
+
+            <p><b>Birth Place : </b>Ranchi, Bihar (now Jharkhand)</p>
+
+            <p><b>Height : </b>5 ft 11 in (180 cm)</p>
+        </div>
+
+        <div>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg" width="200px" alt="">
+        </div>
+
+    </div>
+
+    <div class="sec">
+        <h2>About</h2>
+
+        <p>Mahendra Singh Dhoni, popularly known as ‘Mahi’, is one of the most Internationally acclaimed cricket players and former captain of the Indian Cricket team. A skilled batsman, efficient captain, and flexible wicketkeeper, he played dynamic roles within the team that eventually led India to win the Twenty20 World title. A right-handed batsman and wicketkeeper, he is also one of the top finishers in the limited-over format. He delivered incredible performances throughout his career, soaring the legacy of cricket in India.</p>
+    </div>
+
+
+    <div class="sec">
+        <h2>Early Life</h2>
+
+        <p>
+            Mahendra Singh Dhoni was born in the Ranchi district of Jharkhand on 7 July 1981. He was the youngest of the three children of Pan Singh and Devaki Devi. His family belonged to Hindu Rajputs and was based in the Langara block of the Almora district in Uttarakhand.
+            <br><br>
+
+During his schooling at DAV Jawahar Vidya Mandir, he was interested in football and badminton and was the goalkeeper of the football team. Gradually, he got inspired by his coach Keshav Ranjan Banerjee to play cricket for the school team. His exceptional talent in wicketkeeping made him a consistent player for Commando Cricket Club during the period of 1995-1998. He also played for the Vinoo Mankad Trophy Under – 16 championship during 1997-1998 and gave a notable performance.
+<br><br>
+
+He worked as a Travelling Ticket Examiner(TTE) at the Kharagpur Railway station under the South Eastern Railway from 2001 – 2003.
+        </p>
+    </div>
+
+
+    <div class="sec">
+
+        <h2>Career in Cricket</h2>
+
+        <p>In 1998, Dhoni started his official career in cricket with Central Coalfields Limited (CCL)Team. His performance helped the team reach the A division. Deval Sahay, a former Vice President of the Bihar Cricket Association, was impressed by his performance and recommended him to the Bihar team. Dhoni started playing with the Ranchi team, the junior Bihar team, and finally with the Senior team from Bihar for the Ranji trophy.
+            <br><br>
+            He played for under – 19 Bihar team in Cooch Behar Trophy(1999-2000) and scored well. He also played for the CK Nayudu Trophy in the same year for the East Zone U-19 squad.
+        </p>
+    </div>
+
+
+    <div class="sec">
+
+        <h2>Personal Life</h2>
+
+        <p>On 4th July 2010, he got married to Sakshi Singh Rawat. The couple has a daughter named Ziva.
+            <br><br>
+            Dhoni is the Vice-President of India Cements Ltd, owned by N.Srinivasan, the former Vice President of BCCI and owner of Chennai Super Kings.
+            <br><br>
+
+            He is a co-owner of the Indian Conglomerate, Sahara India Pariwar, Ranchi Rays, a hockey club based in Ranchi, and Chennaiyin FC, a Chennai-based football club, which is a franchise of the Indian Super League (ISL).
+
+            <br><br>
+            Dhoni owns a lifestyle brand called “SEVEN”, and he is the brand ambassador of the same.
+        </p>
+    </div>
+
+
+</body>
+</html>
