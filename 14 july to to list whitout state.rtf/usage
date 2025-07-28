@@ -1,0 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import GroupedTodoList from "./GroupedTodoList";
+
+ReactDOM.render(<GroupedTodoList />, document.getElementById("root"));
